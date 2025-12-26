@@ -1,0 +1,25 @@
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.gallery > a {
+    margin: 0 0.5em;
+}
+
+.gallery img {
+    border-radius: 4px;
+    margin: 0;
+}
+
+.gall-ctrl {
+    text-align: center;
+}
+
+.gall-ctrl > a {
+    margin: 1em;
+    text-decoration: none;
+}

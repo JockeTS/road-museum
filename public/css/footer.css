@@ -1,0 +1,8 @@
+.footer {
+    background-image: linear-gradient(to bottom right, rgb(6, 36, 48), rgb(57, 99, 116));
+    color: rgb(207, 202, 184);
+    margin-top: 1em;
+    padding: 0.5em;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}

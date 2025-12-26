@@ -1,0 +1,33 @@
+/* Regular figure */
+.figure {
+    margin: 2em;
+    text-align: center;
+}
+
+.figure > img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.figure > figcaption {
+    margin-top: 0.5em;
+    font-style: italic;
+}
+
+/* Map figure */
+.figure.map {
+    background-color: rgb(144, 181, 144);
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+
+.figure.map > h2 {
+    margin: 0;
+    padding: 0.25em;
+}
+
+.figure.map > figcaption {
+    margin: 0;
+    padding: 0.25em;
+    font-style: italic;
+}

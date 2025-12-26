@@ -1,0 +1,33 @@
+/* list of articles */
+.article-preview {
+    margin: 1em;
+    padding: 0.5em;
+    font-size: 1.2em;
+}
+
+/* individual articles */
+.article {
+    max-width: 600px;
+    margin: auto;
+}
+
+.article > h1 {
+    text-align: center;
+    font-size: 2em;
+    border-bottom: 4px double gray;
+}
+
+.article img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.article > blockquote {
+    font-style: italic;
+}
+
+.author {
+    text-align: end;
+    font-style: italic;
+}

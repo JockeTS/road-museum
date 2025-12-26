@@ -1,0 +1,18 @@
+.info-page {
+    max-width: 600px;
+    margin: auto;
+}
+
+.info-page h1 {
+    text-align: center;
+    border-bottom: 4px double gray;
+}
+
+.info-page blockquote {
+    font-style: italic;
+}
+
+.doc {
+    text-align: center;
+}
+
