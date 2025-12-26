@@ -1,6 +1,6 @@
 # Nättraby Road Museum
 
-![Project thumbnail](public/img/nvm-home.png)
+![Homepage](public/img/nvm-home.png)
 
 Created as part of the Web Technologies course to represent an open-air museum showcasing Sweden’s roads by land, rail, water, and ice.
 
